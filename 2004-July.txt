@@ -1,0 +1,3319 @@
+From sethgeek at gmail.com  Fri Jul 16 02:34:20 2004
+From: sethgeek at gmail.com (seth)
+Date: Thu, 15 Jul 2004 20:34:20 -0400
+Subject: [Spiffy-dev] weekend
+Message-ID: <cf9a30bb040715173443d2aa84@mail.gmail.com>
+
+I am not going to be around to code friday affternoon-sunday affter noon.
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From kyleroot at gmail.com  Fri Jul 16 02:47:17 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Thu, 15 Jul 2004 20:47:17 -0400
+Subject: [Spiffy-dev] weekend
+In-Reply-To: <cf9a30bb040715173443d2aa84@mail.gmail.com>
+References: <cf9a30bb040715173443d2aa84@mail.gmail.com>
+Message-ID: <6ccff37a04071517471c6ef816@mail.gmail.com>
+
+That's alright, I'm going to be stuck in Mississippi for the next 10 days... :(
+Hopefully I'll be able to find an internet cafe somewhere.... lol,
+what a stupid thought. :)
+
+On Thu, 15 Jul 2004 20:34:20 -0400, seth <sethgeek at gmail.com> wrote:
+> I am not going to be around to code friday affternoon-sunday affter noon.
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From sethgeek at gmail.com  Fri Jul 16 02:53:21 2004
+From: sethgeek at gmail.com (seth)
+Date: Thu, 15 Jul 2004 20:53:21 -0400
+Subject: [Spiffy-dev] weekend
+In-Reply-To: <6ccff37a04071517471c6ef816@mail.gmail.com>
+References: <cf9a30bb040715173443d2aa84@mail.gmail.com> <6ccff37a04071517471c6ef816@mail.gmail.com>
+Message-ID: <cf9a30bb04071517532b7eeeae@mail.gmail.com>
+
+I keep getting permisson denied when I try to upload to the site.  are
+you able to upload?
+
+On Thu, 15 Jul 2004 20:47:17 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> That's alright, I'm going to be stuck in Mississippi for the next 10 days... :(
+> Hopefully I'll be able to find an internet cafe somewhere.... lol,
+> what a stupid thought. :)
+> 
+> 
+> 
+> On Thu, 15 Jul 2004 20:34:20 -0400, seth <sethgeek at gmail.com> wrote:
+> > I am not going to be around to code friday affternoon-sunday affter noon.
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From kyleroot at gmail.com  Fri Jul 16 03:04:25 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Thu, 15 Jul 2004 21:04:25 -0400
+Subject: [Spiffy-dev] weekend
+In-Reply-To: <cf9a30bb04071517532b7eeeae@mail.gmail.com>
+References: <cf9a30bb040715173443d2aa84@mail.gmail.com> <6ccff37a04071517471c6ef816@mail.gmail.com> <cf9a30bb04071517532b7eeeae@mail.gmail.com>
+Message-ID: <6ccff37a04071518045f2f0e23@mail.gmail.com>
+
+I'm not able to up l'load either.   I believe that we will be able to
+get rid that the index.php file that is there right now until the dns
+starts working.
+
+On Thu, 15 Jul 2004 20:53:21 -0400, seth <sethgeek at gmail.com> wrote:
+> I keep getting permisson denied when I try to upload to the site.  are
+> you able to upload?
+> 
+> 
+> 
+> On Thu, 15 Jul 2004 20:47:17 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > That's alright, I'm going to be stuck in Mississippi for the next 10 days... :(
+> > Hopefully I'll be able to find an internet cafe somewhere.... lol,
+> > what a stupid thought. :)
+> >
+> >
+> >
+> > On Thu, 15 Jul 2004 20:34:20 -0400, seth <sethgeek at gmail.com> wrote:
+> > > I am not going to be around to code friday affternoon-sunday affter noon.
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From kyleroot at gmail.com  Fri Jul 16 05:02:27 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Thu, 15 Jul 2004 23:02:27 -0400
+Subject: [Spiffy-dev] install-log
+Message-ID: <6ccff37a040715200277442b76@mail.gmail.com>
+
+I figured out why we can't upload anything, all of our directories are
+owned by root.  I sent in a support request.
+
+I came across install-log (http://install-log.sourceforge.net/)
+earlier today which is an old lfs tool.
+
+Basically I was thinking if Spiffy used install there would be no need
+to include a filelist inside of the package, and there would be little
+need for complicated uninstallation.  This would make creating
+packages much easier.
+
+Here's how I was thinking it would work...
+
+just before loading and running the installation command(s) Spiffy
+would automatically run "touch /var/log/install-logs/.timestamp", it
+would then proceed to install everything, and when the install
+completed it would run "install-log package#version".  This creates a
+file that contains a list of all the files that have been
+added/modified/etc since "touch /var/log/install-logs/.timestamp" was
+run.  The list is by default located in /var/log/install-logs/ however
+we could move it to wherever.  The list now functions as an easy way
+to uninstall packages.  Just like install-log site says now a simple
+command like "xargs rm < /var/install-logs/package#version" will
+uninstall the package.
+
+I like it, it would make creating packages just that much easier. :)
+So what do you think? Yay or ney?
+
+Kyle
+
+
+From kyleroot at gmail.com  Fri Jul 16 05:04:35 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Thu, 15 Jul 2004 23:04:35 -0400
+Subject: [Spiffy-dev] skeleton package
+Message-ID: <6ccff37a04071520042151d2ff@mail.gmail.com>
+
+Since we can't upload anything to our space yet.
+
+http://nandu.berlios.de/pynux-spec.txt
+
+
+From sethgeek at gmail.com  Fri Jul 16 17:27:03 2004
+From: sethgeek at gmail.com (seth)
+Date: Fri, 16 Jul 2004 11:27:03 -0400
+Subject: [Spiffy-dev] Site
+Message-ID: <cf9a30bb04071608271d5be50a@mail.gmail.com>
+
+I showed krill the site , but incase anyone else would like to see it
+before it gets uploaded.
+http://seth.spymac.net/OS/index.html
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Fri Jul 16 20:25:33 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Fri, 16 Jul 2004 14:25:33 -0400
+Subject: [Spiffy-dev] Site
+In-Reply-To: <cf9a30bb04071608271d5be50a@mail.gmail.com>
+References: <cf9a30bb04071608271d5be50a@mail.gmail.com>
+Message-ID: <5de1cd4004071611254491bc57@mail.gmail.com>
+
+Should we use a different layout than the Pynux site
+(http://pynux.undeadpenguin.org - I'm not done yet, but it's close;
+there's just one bug that I have to fix)?
+
+On Fri, 16 Jul 2004 11:27:03 -0400, seth <sethgeek at gmail.com> wrote:
+> I showed krill the site , but incase anyone else would like to see it
+> before it gets uploaded.
+> http://seth.spymac.net/OS/index.html
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From undeadpenguin at gmail.com  Sun Jul 18 23:07:30 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 18 Jul 2004 17:07:30 -0400
+Subject: [Spiffy-dev] Site
+In-Reply-To: <cf9a30bb040718123967e4fd60@mail.gmail.com>
+References: <cf9a30bb04071608271d5be50a@mail.gmail.com> <5de1cd4004071611254491bc57@mail.gmail.com> <cf9a30bb040718123967e4fd60@mail.gmail.com>
+Message-ID: <5de1cd4004071814073ae19ea4@mail.gmail.com>
+
+=/
+Something's up with the redirection. Try http://www.undeadpenguin.org/pynuxtmp
+
+Anyway, since they are going to be seperate projects, maybe we should
+just seperate the websites, too. Ask KptnKrill. ^_-
+
+On Sun, 18 Jul 2004 15:39:25 -0400, seth <sethgeek at gmail.com> wrote:
+> when i click the link i get a
+> There is no website configured at this address.
+> 
+> 
+> 
+> On Fri, 16 Jul 2004 14:25:33 -0400, undeadpenguin
+> <undeadpenguin at gmail.com> wrote:
+> > Should we use a different layout than the Pynux site
+> > (http://pynux.undeadpenguin.org - I'm not done yet, but it's close;
+> > there's just one bug that I have to fix)?
+> >
+> >
+> >
+> > On Fri, 16 Jul 2004 11:27:03 -0400, seth <sethgeek at gmail.com> wrote:
+> > > I showed krill the site , but incase anyone else would like to see it
+> > > before it gets uploaded.
+> > > http://seth.spymac.net/OS/index.html
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+>
+
+
+From undeadpenguin at gmail.com  Sun Jul 18 23:32:51 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 18 Jul 2004 17:32:51 -0400
+Subject: [Spiffy-dev] Site
+In-Reply-To: <cf9a30bb0407181417449b46b1@mail.gmail.com>
+References: <cf9a30bb04071608271d5be50a@mail.gmail.com> <5de1cd4004071611254491bc57@mail.gmail.com> <cf9a30bb040718123967e4fd60@mail.gmail.com> <5de1cd4004071814073ae19ea4@mail.gmail.com> <cf9a30bb0407181417449b46b1@mail.gmail.com>
+Message-ID: <5de1cd400407181432360192fd@mail.gmail.com>
+
+Yeah, that's what I was thinking... :)
+
+On Sun, 18 Jul 2004 17:17:27 -0400, seth <sethgeek at gmail.com> wrote:
+> I like the idea of
+> One centreal site with genreal os info with links to the subprojects.
+> 
+> On Sun, 18 Jul 2004 17:07:30 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > =/
+> > Something's up with the redirection. Try http://www.undeadpenguin.org/pynuxtmp
+> >
+> > Anyway, since they are going to be seperate projects, maybe we should
+> > just seperate the websites, too. Ask KptnKrill. ^_-
+> >
+> >
+> >
+> > On Sun, 18 Jul 2004 15:39:25 -0400, seth <sethgeek at gmail.com> wrote:
+> > > when i click the link i get a
+> > > There is no website configured at this address.
+> > >
+> > >
+> > >
+> > > On Fri, 16 Jul 2004 14:25:33 -0400, undeadpenguin
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > Should we use a different layout than the Pynux site
+> > > > (http://pynux.undeadpenguin.org - I'm not done yet, but it's close;
+> > > > there's just one bug that I have to fix)?
+> > > >
+> > > >
+> > > >
+> > > > On Fri, 16 Jul 2004 11:27:03 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > I showed krill the site , but incase anyone else would like to see it
+> > > > > before it gets uploaded.
+> > > > > http://seth.spymac.net/OS/index.html
+> > > > >
+> > > > > --
+> > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+>
+
+
+From sethgeek at gmail.com  Thu Jul 22 21:16:56 2004
+From: sethgeek at gmail.com (seth)
+Date: Thu, 22 Jul 2004 15:16:56 -0400
+Subject: [Spiffy-dev] site is up
+Message-ID: <cf9a30bb04072212161cffd6a8@mail.gmail.com>
+
+Is there anything we need to add.
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Thu Jul 22 21:29:32 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Thu, 22 Jul 2004 15:29:32 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <cf9a30bb04072212161cffd6a8@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com>
+Message-ID: <5de1cd4004072212294191e0c3@mail.gmail.com>
+
+I could give you the code to the emailer thingy I wrote (very simple,
+uses the mail() function of PHP). You can see an example of it here:
+http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+email to the email address you tell it to with information about the
+person who sent it (name, email address, and a description of what
+they'd like to do and their experience). I'm trying to get some more
+people to work on Pynux :)
+
+On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> Is there anything we need to add.
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From undeadpenguin at gmail.com  Thu Jul 22 21:29:32 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Thu, 22 Jul 2004 15:29:32 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <cf9a30bb04072212161cffd6a8@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com>
+Message-ID: <5de1cd4004072212294191e0c3@mail.gmail.com>
+
+I could give you the code to the emailer thingy I wrote (very simple,
+uses the mail() function of PHP). You can see an example of it here:
+http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+email to the email address you tell it to with information about the
+person who sent it (name, email address, and a description of what
+they'd like to do and their experience). I'm trying to get some more
+people to work on Pynux :)
+
+On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> Is there anything we need to add.
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From sethgeek at gmail.com  Thu Jul 22 21:34:27 2004
+From: sethgeek at gmail.com (seth)
+Date: Thu, 22 Jul 2004 15:34:27 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <5de1cd4004072212294191e0c3@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com> <5de1cd4004072212294191e0c3@mail.gmail.com>
+Message-ID: <cf9a30bb040722123442a25d45@mail.gmail.com>
+
+Sounds like i good idea , pleace sent me the code.
+
+On Thu, 22 Jul 2004 15:29:32 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> I could give you the code to the emailer thingy I wrote (very simple,
+> uses the mail() function of PHP). You can see an example of it here:
+> http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+> email to the email address you tell it to with information about the
+> person who sent it (name, email address, and a description of what
+> they'd like to do and their experience). I'm trying to get some more
+> people to work on Pynux :)
+> 
+> 
+> 
+> On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > Is there anything we need to add.
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Thu Jul 22 22:35:32 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Thu, 22 Jul 2004 16:35:32 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <cf9a30bb040722123442a25d45@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com> <5de1cd4004072212294191e0c3@mail.gmail.com> <cf9a30bb040722123442a25d45@mail.gmail.com>
+Message-ID: <5de1cd40040722133529f71c8a@mail.gmail.com>
+
+The HTML should look something like:
+<form method="POST" action="sendit.php">
+ Name: <input type="text" name="name" /><br />
+ Email: <input type="text" name="email" /><br />
+ Please input a description of what you'd like to do for Spiffy and
+your skills:<br />
+ <textarea name="desc" rows="25" cols="10"></textarea>
+</form>
+
+The PHP part (sendit.php):
+   <?php
+     $error = 0; //If there is an error it gets set to one
+
+/**************************************************************
+** Be sure to se the variable $email_to below            **
+**************************************************************/
+     $email_to = "your email address"; // Set this to the email
+address you want it sent to.
+
+     //Make sure stuff exists
+     if( $name == "" ) {
+      print "Error: No name given.<br />";
+      $error = 1;
+     }
+     if( $desc == "") {
+      print "Error: No description given.<br />";
+      $error = 1;
+     }
+     if( $email == "") {
+      print "Error: No email address given.<br />";
+      $error = 1;
+     }
+     if( $error != 0 ) {
+      print "Script execution stopped due to errors.<br />";
+      exit;
+     }
+     
+     //Send mail
+     $from = $email;
+     $subject = "Forty-two Devloper: ".$name;
+     $to = $email_to;
+     $message = $desc;
+     mail( $to, $subject, $message, $from )
+      or $error = 1;
+     if( $error != 0 ) {
+      print "Error sending email. Please try again.<br />";
+      exit;
+     }
+     
+     //Tell the user about it
+     print "An email has been sent to $email_to - below is a copy of
+it. Thank you for joining the Spiffy team. You will be contacted
+within a day.<br />";
+     print "<br />";
+     print "From: $email<br />";
+     print "To: $email_to<br />";
+     print "Subject: Forty-two Developer: $name<br />";
+     print "<br />";
+     print $desc."<br />";
+   ?>
+
+Make sure you include some HTML (like the template you're using for
+the site) around sendit.php, too. Just don't put it inside the
+<?php...?> tags. You may want to put the <?php...?> tags inside <p>
+tags as it _will_ output stuff. :)
+On Thu, 22 Jul 2004 15:34:27 -0400, seth <sethgeek at gmail.com> wrote:
+> Sounds like i good idea , pleace sent me the code.
+> 
+> 
+> 
+> On Thu, 22 Jul 2004 15:29:32 -0400, undeadpenguin
+> <undeadpenguin at gmail.com> wrote:
+> > I could give you the code to the emailer thingy I wrote (very simple,
+> > uses the mail() function of PHP). You can see an example of it here:
+> > http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+> > email to the email address you tell it to with information about the
+> > person who sent it (name, email address, and a description of what
+> > they'd like to do and their experience). I'm trying to get some more
+> > people to work on Pynux :)
+> >
+> >
+> >
+> > On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > Is there anything we need to add.
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From sethgeek at gmail.com  Fri Jul 23 03:06:08 2004
+From: sethgeek at gmail.com (seth)
+Date: Thu, 22 Jul 2004 21:06:08 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <5de1cd40040722133529f71c8a@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com> <5de1cd4004072212294191e0c3@mail.gmail.com> <cf9a30bb040722123442a25d45@mail.gmail.com> <5de1cd40040722133529f71c8a@mail.gmail.com>
+Message-ID: <cf9a30bb0407221806386de445@mail.gmail.com>
+
+So i put the html part on a page. and the php goes on a page named
+sendit.php or does it all go on one page. I have never used php before
+
+On Thu, 22 Jul 2004 16:35:32 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> The HTML should look something like:
+> <form method="POST" action="sendit.php">
+>  Name: <input type="text" name="name" /><br />
+>  Email: <input type="text" name="email" /><br />
+>  Please input a description of what you'd like to do for Spiffy and
+> your skills:<br />
+>  <textarea name="desc" rows="25" cols="10"></textarea>
+> </form>
+> 
+> The PHP part (sendit.php):
+>    <?php
+>      $error = 0; //If there is an error it gets set to one
+> 
+> /**************************************************************
+> ** Be sure to se the variable $email_to below            **
+> **************************************************************/
+>      $email_to = "your email address"; // Set this to the email
+> address you want it sent to.
+> 
+>      //Make sure stuff exists
+>      if( $name == "" ) {
+>       print "Error: No name given.<br />";
+>       $error = 1;
+>      }
+>      if( $desc == "") {
+>       print "Error: No description given.<br />";
+>       $error = 1;
+>      }
+>      if( $email == "") {
+>       print "Error: No email address given.<br />";
+>       $error = 1;
+>      }
+>      if( $error != 0 ) {
+>       print "Script execution stopped due to errors.<br />";
+>       exit;
+>      }
+> 
+>      //Send mail
+>      $from = $email;
+>      $subject = "Forty-two Devloper: ".$name;
+>      $to = $email_to;
+>      $message = $desc;
+>      mail( $to, $subject, $message, $from )
+>       or $error = 1;
+>      if( $error != 0 ) {
+>       print "Error sending email. Please try again.<br />";
+>       exit;
+>      }
+> 
+>      //Tell the user about it
+>      print "An email has been sent to $email_to - below is a copy of
+> it. Thank you for joining the Spiffy team. You will be contacted
+> within a day.<br />";
+>      print "<br />";
+>      print "From: $email<br />";
+>      print "To: $email_to<br />";
+>      print "Subject: Forty-two Developer: $name<br />";
+>      print "<br />";
+>      print $desc."<br />";
+>    ?>
+> 
+> Make sure you include some HTML (like the template you're using for
+> the site) around sendit.php, too. Just don't put it inside the
+> <?php...?> tags. You may want to put the <?php...?> tags inside <p>
+> tags as it _will_ output stuff. :)
+> 
+> 
+> On Thu, 22 Jul 2004 15:34:27 -0400, seth <sethgeek at gmail.com> wrote:
+> > Sounds like i good idea , pleace sent me the code.
+> >
+> >
+> >
+> > On Thu, 22 Jul 2004 15:29:32 -0400, undeadpenguin
+> > <undeadpenguin at gmail.com> wrote:
+> > > I could give you the code to the emailer thingy I wrote (very simple,
+> > > uses the mail() function of PHP). You can see an example of it here:
+> > > http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+> > > email to the email address you tell it to with information about the
+> > > person who sent it (name, email address, and a description of what
+> > > they'd like to do and their experience). I'm trying to get some more
+> > > people to work on Pynux :)
+> > >
+> > >
+> > >
+> > > On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > Is there anything we need to add.
+> > > > --
+> > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Fri Jul 23 03:41:28 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Thu, 22 Jul 2004 21:41:28 -0400
+Subject: [Spiffy-dev] site is up
+In-Reply-To: <5de1cd4004072218397d139585@mail.gmail.com>
+References: <cf9a30bb04072212161cffd6a8@mail.gmail.com> <5de1cd4004072212294191e0c3@mail.gmail.com> <cf9a30bb040722123442a25d45@mail.gmail.com> <5de1cd40040722133529f71c8a@mail.gmail.com> <cf9a30bb0407221806386de445@mail.gmail.com> <5de1cd4004072218364007e097@mail.gmail.com> <5de1cd4004072218397d139585@mail.gmail.com>
+Message-ID: <5de1cd4004072218417bdd1715@mail.gmail.com>
+
+Darnit, I did it again... Let me repost (in case you can't tell, I
+keep emailing you instead of Spiffy-dev... =/
+
+Woops, I sent it to the wrong place. Let me re-post that.
+
+Alright, let's use this as a very basic example. I'm just going to
+code the following below that has _nothing_ to do with the actual HTML
+or PHP you will be using; it's just an example of how to use it.
+
+<html>
+<head>
+<title>A PHP Example</title>
+</head>
+<body>
+
+<!-- We will assume the following table is part of your template, a
+nav bar, in a sense -->
+  <table align="center" width="100%">
+    <tr>
+      <td>
+       <a href="index.html">The Index</a>
+      </td>
+     </tr>
+  </table>
+
+   <!-- Now let's assume the next table is the main content of the site -->
+   <table align="center" width="100%">
+    <tr>
+     <td>
+      <p>
+       <?php
+          $somevariable = 2;
+          if( $somevariable == 2) {
+           print "This will be outputted to the browser.<br />";
+          }
+       ?>
+      </p>
+     </td>
+    </tr>
+   </table>
+  </body>
+</html>
+
+Get it? If you still need some help, I could put it in for you. :)
+
+Also, note that PHP print does not print directly to the browser. It
+writes it to the HTML file. For example, <?php $paragraphit = "<p>";
+$closeit = "</p>"; print $paragraphit; print "Test"; print $closeit;?>
+would just print "Test" to the browser, but if you looked at the
+source, it would say <p>Test</p>
+
+> > On Thu, 22 Jul 2004 21:06:08 -0400, seth <sethgeek at gmail.com> wrote:
+> > > So i put the html part on a page. and the php goes on a page named
+> > > sendit.php or does it all go on one page. I have never used php before
+> > >
+> > > On Thu, 22 Jul 2004 16:35:32 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > The HTML should look something like:
+> > > > <form method="POST" action="sendit.php">
+> > > >  Name: <input type="text" name="name" /><br />
+> > > >  Email: <input type="text" name="email" /><br />
+> > > >  Please input a description of what you'd like to do for Spiffy and
+> > > > your skills:<br />
+> > > >  <textarea name="desc" rows="25" cols="10"></textarea>
+> > > > </form>
+> > > >
+> > > > The PHP part (sendit.php):
+> > > >    <?php
+> > > >      $error = 0; //If there is an error it gets set to one
+> > > >
+> > > > /**************************************************************
+> > > > ** Be sure to se the variable $email_to below            **
+> > > > **************************************************************/
+> > > >      $email_to = "your email address"; // Set this to the email
+> > > > address you want it sent to.
+> > > >
+> > > >      //Make sure stuff exists
+> > > >      if( $name == "" ) {
+> > > >       print "Error: No name given.<br />";
+> > > >       $error = 1;
+> > > >      }
+> > > >      if( $desc == "") {
+> > > >       print "Error: No description given.<br />";
+> > > >       $error = 1;
+> > > >      }
+> > > >      if( $email == "") {
+> > > >       print "Error: No email address given.<br />";
+> > > >       $error = 1;
+> > > >      }
+> > > >      if( $error != 0 ) {
+> > > >       print "Script execution stopped due to errors.<br />";
+> > > >       exit;
+> > > >      }
+> > > >
+> > > >      //Send mail
+> > > >      $from = $email;
+> > > >      $subject = "Forty-two Devloper: ".$name;
+> > > >      $to = $email_to;
+> > > >      $message = $desc;
+> > > >      mail( $to, $subject, $message, $from )
+> > > >       or $error = 1;
+> > > >      if( $error != 0 ) {
+> > > >       print "Error sending email. Please try again.<br />";
+> > > >       exit;
+> > > >      }
+> > > >
+> > > >      //Tell the user about it
+> > > >      print "An email has been sent to $email_to - below is a copy of
+> > > > it. Thank you for joining the Spiffy team. You will be contacted
+> > > > within a day.<br />";
+> > > >      print "<br />";
+> > > >      print "From: $email<br />";
+> > > >      print "To: $email_to<br />";
+> > > >      print "Subject: Forty-two Developer: $name<br />";
+> > > >      print "<br />";
+> > > >      print $desc."<br />";
+> > > >    ?>
+> > > >
+> > > > Make sure you include some HTML (like the template you're using for
+> > > > the site) around sendit.php, too. Just don't put it inside the
+> > > > <?php...?> tags. You may want to put the <?php...?> tags inside <p>
+> > > > tags as it _will_ output stuff. :)
+> > > >
+> > > >
+> > > > On Thu, 22 Jul 2004 15:34:27 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > Sounds like i good idea , pleace sent me the code.
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Thu, 22 Jul 2004 15:29:32 -0400, undeadpenguin
+> > > > > <undeadpenguin at gmail.com> wrote:
+> > > > > > I could give you the code to the emailer thingy I wrote (very simple,
+> > > > > > uses the mail() function of PHP). You can see an example of it here:
+> > > > > > http://undeadpenguin.org/pynuxtmp/devs.html . What it does is send an
+> > > > > > email to the email address you tell it to with information about the
+> > > > > > person who sent it (name, email address, and a description of what
+> > > > > > they'd like to do and their experience). I'm trying to get some more
+> > > > > > people to work on Pynux :)
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > > > On Thu, 22 Jul 2004 15:16:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > > Is there anything we need to add.
+> > > > > > > --
+> > > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > > _______________________________________________
+> > > > > > > Spiffy-dev mailing list
+> > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > >
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > >
+> > > > > --
+> > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+>
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:08:40 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:08:40 -0400
+Subject: [Spiffy-dev] install-log
+In-Reply-To: <cf9a30bb04071607284c345b4c@mail.gmail.com>
+References: <6ccff37a040715200277442b76@mail.gmail.com> <cf9a30bb04071607284c345b4c@mail.gmail.com>
+Message-ID: <6ccff37a04072508083fe8a77d@mail.gmail.com>
+
+I'm going to make gpl or bsd another topic for clarity's sake.
+
+Well I'm glad you like install-log because I've been thinking and I
+don't think it'll work.
+
+Suppose a package ships with configuration file, using install-log if
+you were doing an upgrade would indiscriminately destroy all of the
+users settings.  And with packages such as apache that have huge
+configs this might not be such a good idea.
+
+If we tried to follow a path similar to rpm (with the filelist and
+whatnot) we know that we have a method that works plus, it's only a
+base for us to add on advanced pynux specific features that'll attract
+users. :)
+
+You may not of noticed but a large portion of that skeleton package
+that I showed you looks like an rpm.
+
+I need to to write some docs so as every is on the rigtige page.
+
+On Fri, 16 Jul 2004 10:28:56 -0400, seth <sethgeek at gmail.com> wrote:
+> I like it , on anouther note is spiffy GPL or BSD.
+> 
+> 
+> 
+>
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:09:27 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:09:27 -0400
+Subject: [Spiffy-dev] gpl or bsd
+Message-ID: <6ccff37a0407250809418d2e7@mail.gmail.com>
+
+doesn't matter to me.  feel free to change the license cause when I
+registered I set it to gpl.
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:18:26 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:18:26 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <6ccff37a0407250809418d2e7@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com>
+Message-ID: <5de1cd400407250818f6450a@mail.gmail.com>
+
+I think we should go over to BSD.
+
+At first I thought we shouldn't because it would be a pain in the arse
+to change it, but now I realize we don't have any code so if we're
+going to change it, we should do it *now*. If you decide to go BSD
+(which I think we should do), be sure you post on the forums (or
+respond to this) so that I can write that up on Pynux's website and
+change Forty-two's license.
+
+Speaking of that, how do you go about changing licenses? Do you just
+submit one of those help requests?
+
+On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> doesn't matter to me.  feel free to change the license cause when I
+> registered I set it to gpl.
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From sethgeek at gmail.com  Sun Jul 25 17:19:37 2004
+From: sethgeek at gmail.com (seth)
+Date: Sun, 25 Jul 2004 11:19:37 -0400
+Subject: [Spiffy-dev] install-log
+In-Reply-To: <6ccff37a04072508083fe8a77d@mail.gmail.com>
+References: <6ccff37a040715200277442b76@mail.gmail.com> <cf9a30bb04071607284c345b4c@mail.gmail.com> <6ccff37a04072508083fe8a77d@mail.gmail.com>
+Message-ID: <cf9a30bb04072508191c84c6bb@mail.gmail.com>
+
+is there a way to look inside a rpm so i can better understand it?
+
+On Sun, 25 Jul 2004 11:08:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> I'm going to make gpl or bsd another topic for clarity's sake.
+> 
+> Well I'm glad you like install-log because I've been thinking and I
+> don't think it'll work.
+> 
+> Suppose a package ships with configuration file, using install-log if
+> you were doing an upgrade would indiscriminately destroy all of the
+> users settings.  And with packages such as apache that have huge
+> configs this might not be such a good idea.
+> 
+> If we tried to follow a path similar to rpm (with the filelist and
+> whatnot) we know that we have a method that works plus, it's only a
+> base for us to add on advanced pynux specific features that'll attract
+> users. :)
+> 
+> You may not of noticed but a large portion of that skeleton package
+> that I showed you looks like an rpm.
+> 
+> I need to to write some docs so as every is on the rigtige page.
+> 
+> 
+> 
+> On Fri, 16 Jul 2004 10:28:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > I like it , on anouther note is spiffy GPL or BSD.
+> >
+> >
+> >
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From sethgeek at gmail.com  Sun Jul 25 17:21:17 2004
+From: sethgeek at gmail.com (seth)
+Date: Sun, 25 Jul 2004 11:21:17 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <5de1cd400407250818f6450a@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com>
+Message-ID: <cf9a30bb04072508211870b530@mail.gmail.com>
+
+On SF for timmy , i  was able to just change it , it was easy.
+
+On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> I think we should go over to BSD.
+> 
+> At first I thought we shouldn't because it would be a pain in the arse
+> to change it, but now I realize we don't have any code so if we're
+> going to change it, we should do it *now*. If you decide to go BSD
+> (which I think we should do), be sure you post on the forums (or
+> respond to this) so that I can write that up on Pynux's website and
+> change Forty-two's license.
+> 
+> Speaking of that, how do you go about changing licenses? Do you just
+> submit one of those help requests?
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > doesn't matter to me.  feel free to change the license cause when I
+> > registered I set it to gpl.
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+> 
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:31:40 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:31:40 -0400
+Subject: [Spiffy-dev] install-log
+In-Reply-To: <cf9a30bb04072508191c84c6bb@mail.gmail.com>
+References: <6ccff37a040715200277442b76@mail.gmail.com> <cf9a30bb04071607284c345b4c@mail.gmail.com> <6ccff37a04072508083fe8a77d@mail.gmail.com> <cf9a30bb04072508191c84c6bb@mail.gmail.com>
+Message-ID: <6ccff37a040725083113f44815@mail.gmail.com>
+
+<code>
+rpm2cpio packagename.src.rpm | cpio -i
+</code>
+
+you may need to get the rpm2cpio program.  you should already have
+cpio though.  that'll break the rpm down into it's most useful form
+(atleast to us).  Note though that it must be a source rpm. (SRPM).
+
+On Sun, 25 Jul 2004 11:19:37 -0400, seth <sethgeek at gmail.com> wrote:
+> is there a way to look inside a rpm so i can better understand it?
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:08:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > I'm going to make gpl or bsd another topic for clarity's sake.
+> >
+> > Well I'm glad you like install-log because I've been thinking and I
+> > don't think it'll work.
+> >
+> > Suppose a package ships with configuration file, using install-log if
+> > you were doing an upgrade would indiscriminately destroy all of the
+> > users settings.  And with packages such as apache that have huge
+> > configs this might not be such a good idea.
+> >
+> > If we tried to follow a path similar to rpm (with the filelist and
+> > whatnot) we know that we have a method that works plus, it's only a
+> > base for us to add on advanced pynux specific features that'll attract
+> > users. :)
+> >
+> > You may not of noticed but a large portion of that skeleton package
+> > that I showed you looks like an rpm.
+> >
+> > I need to to write some docs so as every is on the rigtige page.
+> >
+> >
+> >
+> > On Fri, 16 Jul 2004 10:28:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > I like it , on anouther note is spiffy GPL or BSD.
+> > >
+> > >
+> > >
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:34:11 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:34:11 -0400
+Subject: [Spiffy-dev] install-log
+In-Reply-To: <6ccff37a040725083113f44815@mail.gmail.com>
+References: <6ccff37a040715200277442b76@mail.gmail.com> <cf9a30bb04071607284c345b4c@mail.gmail.com> <6ccff37a04072508083fe8a77d@mail.gmail.com> <cf9a30bb04072508191c84c6bb@mail.gmail.com> <6ccff37a040725083113f44815@mail.gmail.com>
+Message-ID: <5de1cd40040725083448fc9d33@mail.gmail.com>
+
+This may also be of use, Seth:
+http://fedora.redhat.com/participate/developers-guide/ch-rpm-building.html
+
+On Sun, 25 Jul 2004 11:31:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> <code>
+> rpm2cpio packagename.src.rpm | cpio -i
+> </code>
+> 
+> you may need to get the rpm2cpio program.  you should already have
+> cpio though.  that'll break the rpm down into it's most useful form
+> (atleast to us).  Note though that it must be a source rpm. (SRPM).
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:19:37 -0400, seth <sethgeek at gmail.com> wrote:
+> > is there a way to look inside a rpm so i can better understand it?
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:08:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > I'm going to make gpl or bsd another topic for clarity's sake.
+> > >
+> > > Well I'm glad you like install-log because I've been thinking and I
+> > > don't think it'll work.
+> > >
+> > > Suppose a package ships with configuration file, using install-log if
+> > > you were doing an upgrade would indiscriminately destroy all of the
+> > > users settings.  And with packages such as apache that have huge
+> > > configs this might not be such a good idea.
+> > >
+> > > If we tried to follow a path similar to rpm (with the filelist and
+> > > whatnot) we know that we have a method that works plus, it's only a
+> > > base for us to add on advanced pynux specific features that'll attract
+> > > users. :)
+> > >
+> > > You may not of noticed but a large portion of that skeleton package
+> > > that I showed you looks like an rpm.
+> > >
+> > > I need to to write some docs so as every is on the rigtige page.
+> > >
+> > >
+> > >
+> > > On Fri, 16 Jul 2004 10:28:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > I like it , on anouther note is spiffy GPL or BSD.
+> > > >
+> > > >
+> > > >
+> > > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:35:15 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:35:15 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <cf9a30bb04072508211870b530@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com>
+Message-ID: <5de1cd4004072508352b983294@mail.gmail.com>
+
+Oh, cool. So we're all agreed, BSD it is?
+
+On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> On SF for timmy , i  was able to just change it , it was easy.
+> 
+> On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > I think we should go over to BSD.
+> >
+> > At first I thought we shouldn't because it would be a pain in the arse
+> > to change it, but now I realize we don't have any code so if we're
+> > going to change it, we should do it *now*. If you decide to go BSD
+> > (which I think we should do), be sure you post on the forums (or
+> > respond to this) so that I can write that up on Pynux's website and
+> > change Forty-two's license.
+> >
+> > Speaking of that, how do you go about changing licenses? Do you just
+> > submit one of those help requests?
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > doesn't matter to me.  feel free to change the license cause when I
+> > > registered I set it to gpl.
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> >
+> >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> -- 
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> 
+> 
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:37:11 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:37:11 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <cf9a30bb04072508211870b530@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com>
+Message-ID: <6ccff37a04072508372854a293@mail.gmail.com>
+
+then bsd it is.
+
+On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> On SF for timmy , i  was able to just change it , it was easy.
+> 
+> On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > I think we should go over to BSD.
+> >
+> > At first I thought we shouldn't because it would be a pain in the arse
+> > to change it, but now I realize we don't have any code so if we're
+> > going to change it, we should do it *now*. If you decide to go BSD
+> > (which I think we should do), be sure you post on the forums (or
+> > respond to this) so that I can write that up on Pynux's website and
+> > change Forty-two's license.
+> >
+> > Speaking of that, how do you go about changing licenses? Do you just
+> > submit one of those help requests?
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > doesn't matter to me.  feel free to change the license cause when I
+> > > registered I set it to gpl.
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> >
+> >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> 
+> 
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:39:20 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:39:20 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <6ccff37a04072508372854a293@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com>
+Message-ID: <6ccff37a04072508397cff817a@mail.gmail.com>
+
+I already changed it.
+
+On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> then bsd it is.
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > On SF for timmy , i  was able to just change it , it was easy.
+> >
+> > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > I think we should go over to BSD.
+> > >
+> > > At first I thought we shouldn't because it would be a pain in the arse
+> > > to change it, but now I realize we don't have any code so if we're
+> > > going to change it, we should do it *now*. If you decide to go BSD
+> > > (which I think we should do), be sure you post on the forums (or
+> > > respond to this) so that I can write that up on Pynux's website and
+> > > change Forty-two's license.
+> > >
+> > > Speaking of that, how do you go about changing licenses? Do you just
+> > > submit one of those help requests?
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > registered I set it to gpl.
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > >
+> > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> >
+> >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+>
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:39:47 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:39:47 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <6ccff37a04072508372854a293@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com>
+Message-ID: <5de1cd400407250839551a743d@mail.gmail.com>
+
+Cool. I'll go change over Forty-two and then I'll edit Pynux and
+Forty-two's about pages. I'll have to wait until Monday to do that,
+though, because I'm at my dad's and I don't have the required tools...
+=/
+
+On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> then bsd it is.
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > On SF for timmy , i  was able to just change it , it was easy.
+> >
+> > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > I think we should go over to BSD.
+> > >
+> > > At first I thought we shouldn't because it would be a pain in the arse
+> > > to change it, but now I realize we don't have any code so if we're
+> > > going to change it, we should do it *now*. If you decide to go BSD
+> > > (which I think we should do), be sure you post on the forums (or
+> > > respond to this) so that I can write that up on Pynux's website and
+> > > change Forty-two's license.
+> > >
+> > > Speaking of that, how do you go about changing licenses? Do you just
+> > > submit one of those help requests?
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > registered I set it to gpl.
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > >
+> > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> >
+> >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:41:13 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:41:13 -0400
+Subject: [Spiffy-dev] install-log
+In-Reply-To: <5de1cd40040725083448fc9d33@mail.gmail.com>
+References: <6ccff37a040715200277442b76@mail.gmail.com> <cf9a30bb04071607284c345b4c@mail.gmail.com> <6ccff37a04072508083fe8a77d@mail.gmail.com> <cf9a30bb04072508191c84c6bb@mail.gmail.com> <6ccff37a040725083113f44815@mail.gmail.com> <5de1cd40040725083448fc9d33@mail.gmail.com>
+Message-ID: <6ccff37a0407250841591c963a@mail.gmail.com>
+
+that even better. :)
+
+On Sun, 25 Jul 2004 11:34:11 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> This may also be of use, Seth:
+> http://fedora.redhat.com/participate/developers-guide/ch-rpm-building.html
+> 
+> On Sun, 25 Jul 2004 11:31:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > <code>
+> > rpm2cpio packagename.src.rpm | cpio -i
+> > </code>
+> >
+> > you may need to get the rpm2cpio program.  you should already have
+> > cpio though.  that'll break the rpm down into it's most useful form
+> > (atleast to us).  Note though that it must be a source rpm. (SRPM).
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:19:37 -0400, seth <sethgeek at gmail.com> wrote:
+> > > is there a way to look inside a rpm so i can better understand it?
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:08:40 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > I'm going to make gpl or bsd another topic for clarity's sake.
+> > > >
+> > > > Well I'm glad you like install-log because I've been thinking and I
+> > > > don't think it'll work.
+> > > >
+> > > > Suppose a package ships with configuration file, using install-log if
+> > > > you were doing an upgrade would indiscriminately destroy all of the
+> > > > users settings.  And with packages such as apache that have huge
+> > > > configs this might not be such a good idea.
+> > > >
+> > > > If we tried to follow a path similar to rpm (with the filelist and
+> > > > whatnot) we know that we have a method that works plus, it's only a
+> > > > base for us to add on advanced pynux specific features that'll attract
+> > > > users. :)
+> > > >
+> > > > You may not of noticed but a large portion of that skeleton package
+> > > > that I showed you looks like an rpm.
+> > > >
+> > > > I need to to write some docs so as every is on the rigtige page.
+> > > >
+> > > >
+> > > >
+> > > > On Fri, 16 Jul 2004 10:28:56 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > I like it , on anouther note is spiffy GPL or BSD.
+> > > > >
+> > > > >
+> > > > >
+> > > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> -- 
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+> 
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From sethgeek at gmail.com  Sun Jul 25 17:41:35 2004
+From: sethgeek at gmail.com (seth)
+Date: Sun, 25 Jul 2004 11:41:35 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <5de1cd400407250839551a743d@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com> <5de1cd400407250839551a743d@mail.gmail.com>
+Message-ID: <cf9a30bb04072508417077c982@mail.gmail.com>
+
+it changed my mind
+
+http://www.daemonnews.org/199905/gpl.html
+
+On Sun, 25 Jul 2004 11:39:47 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Cool. I'll go change over Forty-two and then I'll edit Pynux and
+> Forty-two's about pages. I'll have to wait until Monday to do that,
+> though, because I'm at my dad's and I don't have the required tools...
+> =/
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > then bsd it is.
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > > On SF for timmy , i  was able to just change it , it was easy.
+> > >
+> > > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > I think we should go over to BSD.
+> > > >
+> > > > At first I thought we shouldn't because it would be a pain in the arse
+> > > > to change it, but now I realize we don't have any code so if we're
+> > > > going to change it, we should do it *now*. If you decide to go BSD
+> > > > (which I think we should do), be sure you post on the forums (or
+> > > > respond to this) so that I can write that up on Pynux's website and
+> > > > change Forty-two's license.
+> > > >
+> > > > Speaking of that, how do you go about changing licenses? Do you just
+> > > > submit one of those help requests?
+> > > >
+> > > >
+> > > >
+> > > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > > registered I set it to gpl.
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://undeadpenguin.org/pynuxtmp/
+> > > > http://forty-two.berlios.de
+> > > > http://spiffy.berlios.de
+> > > >
+> > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > >
+> > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:45:33 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:45:33 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <cf9a30bb04072508417077c982@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com> <5de1cd400407250839551a743d@mail.gmail.com> <cf9a30bb04072508417077c982@mail.gmail.com>
+Message-ID: <5de1cd4004072508452646cfed@mail.gmail.com>
+
+=/
+
+How do you change it...? I don't see an option to do that anywhere...
+
+On Sun, 25 Jul 2004 11:41:35 -0400, seth <sethgeek at gmail.com> wrote:
+> it changed my mind
+> 
+> http://www.daemonnews.org/199905/gpl.html
+> 
+> On Sun, 25 Jul 2004 11:39:47 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > Cool. I'll go change over Forty-two and then I'll edit Pynux and
+> > Forty-two's about pages. I'll have to wait until Monday to do that,
+> > though, because I'm at my dad's and I don't have the required tools...
+> > =/
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > then bsd it is.
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > On SF for timmy , i  was able to just change it , it was easy.
+> > > >
+> > > > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> > > >
+> > > >
+> > > > <undeadpenguin at gmail.com> wrote:
+> > > > > I think we should go over to BSD.
+> > > > >
+> > > > > At first I thought we shouldn't because it would be a pain in the arse
+> > > > > to change it, but now I realize we don't have any code so if we're
+> > > > > going to change it, we should do it *now*. If you decide to go BSD
+> > > > > (which I think we should do), be sure you post on the forums (or
+> > > > > respond to this) so that I can write that up on Pynux's website and
+> > > > > change Forty-two's license.
+> > > > >
+> > > > > Speaking of that, how do you go about changing licenses? Do you just
+> > > > > submit one of those help requests?
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > > > registered I set it to gpl.
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > >
+> > > > >
+> > > > > --
+> > > > > http://undeadpenguin.org/pynuxtmp/
+> > > > > http://forty-two.berlios.de
+> > > > > http://spiffy.berlios.de
+> > > > >
+> > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > >
+> > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:45:51 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:45:51 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <cf9a30bb04072508417077c982@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com> <5de1cd400407250839551a743d@mail.gmail.com> <cf9a30bb04072508417077c982@mail.gmail.com>
+Message-ID: <6ccff37a040725084574ae276a@mail.gmail.com>
+
+nah that ain't none to convincing ;)
+
+On Sun, 25 Jul 2004 11:41:35 -0400, seth <sethgeek at gmail.com> wrote:
+> it changed my mind
+> 
+> http://www.daemonnews.org/199905/gpl.html
+> 
+> On Sun, 25 Jul 2004 11:39:47 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > Cool. I'll go change over Forty-two and then I'll edit Pynux and
+> > Forty-two's about pages. I'll have to wait until Monday to do that,
+> > though, because I'm at my dad's and I don't have the required tools...
+> > =/
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > then bsd it is.
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > On SF for timmy , i  was able to just change it , it was easy.
+> > > >
+> > > > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> > > >
+> > > >
+> > > > <undeadpenguin at gmail.com> wrote:
+> > > > > I think we should go over to BSD.
+> > > > >
+> > > > > At first I thought we shouldn't because it would be a pain in the arse
+> > > > > to change it, but now I realize we don't have any code so if we're
+> > > > > going to change it, we should do it *now*. If you decide to go BSD
+> > > > > (which I think we should do), be sure you post on the forums (or
+> > > > > respond to this) so that I can write that up on Pynux's website and
+> > > > > change Forty-two's license.
+> > > > >
+> > > > > Speaking of that, how do you go about changing licenses? Do you just
+> > > > > submit one of those help requests?
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > > > registered I set it to gpl.
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > >
+> > > > >
+> > > > > --
+> > > > > http://undeadpenguin.org/pynuxtmp/
+> > > > > http://forty-two.berlios.de
+> > > > > http://spiffy.berlios.de
+> > > > >
+> > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > >
+> > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From kyleroot at gmail.com  Sun Jul 25 17:48:07 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 11:48:07 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <5de1cd4004072508452646cfed@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com> <5de1cd400407250839551a743d@mail.gmail.com> <cf9a30bb04072508417077c982@mail.gmail.com> <5de1cd4004072508452646cfed@mail.gmail.com>
+Message-ID: <6ccff37a04072508486071872f@mail.gmail.com>
+
+project admin > edit trove categorization
+
+On Sun, 25 Jul 2004 11:45:33 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> =/
+> 
+> How do you change it...? I don't see an option to do that anywhere...
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 11:41:35 -0400, seth <sethgeek at gmail.com> wrote:
+> > it changed my mind
+> >
+> > http://www.daemonnews.org/199905/gpl.html
+> >
+> > On Sun, 25 Jul 2004 11:39:47 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > Cool. I'll go change over Forty-two and then I'll edit Pynux and
+> > > Forty-two's about pages. I'll have to wait until Monday to do that,
+> > > though, because I'm at my dad's and I don't have the required tools...
+> > > =/
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > then bsd it is.
+> > > >
+> > > >
+> > > >
+> > > > On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > On SF for timmy , i  was able to just change it , it was easy.
+> > > > >
+> > > > > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> > > > >
+> > > > >
+> > > > > <undeadpenguin at gmail.com> wrote:
+> > > > > > I think we should go over to BSD.
+> > > > > >
+> > > > > > At first I thought we shouldn't because it would be a pain in the arse
+> > > > > > to change it, but now I realize we don't have any code so if we're
+> > > > > > going to change it, we should do it *now*. If you decide to go BSD
+> > > > > > (which I think we should do), be sure you post on the forums (or
+> > > > > > respond to this) so that I can write that up on Pynux's website and
+> > > > > > change Forty-two's license.
+> > > > > >
+> > > > > > Speaking of that, how do you go about changing licenses? Do you just
+> > > > > > submit one of those help requests?
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > > > > registered I set it to gpl.
+> > > > > > > _______________________________________________
+> > > > > > > Spiffy-dev mailing list
+> > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > >
+> > > > > >
+> > > > > >
+> > > > > > --
+> > > > > > http://undeadpenguin.org/pynuxtmp/
+> > > > > > http://forty-two.berlios.de
+> > > > > > http://spiffy.berlios.de
+> > > > > >
+> > > > > >
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > >
+> > > > >
+> > > > > --
+> > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > >
+> > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 17:51:50 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 11:51:50 -0400
+Subject: [Spiffy-dev] gpl or bsd
+In-Reply-To: <6ccff37a04072508486071872f@mail.gmail.com>
+References: <6ccff37a0407250809418d2e7@mail.gmail.com> <5de1cd400407250818f6450a@mail.gmail.com> <cf9a30bb04072508211870b530@mail.gmail.com> <6ccff37a04072508372854a293@mail.gmail.com> <5de1cd400407250839551a743d@mail.gmail.com> <cf9a30bb04072508417077c982@mail.gmail.com> <5de1cd4004072508452646cfed@mail.gmail.com> <6ccff37a04072508486071872f@mail.gmail.com>
+Message-ID: <5de1cd40040725085112add878@mail.gmail.com>
+
+Oh. hehe, I didn't even think to look in there... ;)
+
+On Sun, 25 Jul 2004 11:48:07 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> project admin > edit trove categorization
+> 
+> On Sun, 25 Jul 2004 11:45:33 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > =/
+> >
+> > How do you change it...? I don't see an option to do that anywhere...
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 11:41:35 -0400, seth <sethgeek at gmail.com> wrote:
+> > > it changed my mind
+> > >
+> > > http://www.daemonnews.org/199905/gpl.html
+> > >
+> > > On Sun, 25 Jul 2004 11:39:47 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > Cool. I'll go change over Forty-two and then I'll edit Pynux and
+> > > > Forty-two's about pages. I'll have to wait until Monday to do that,
+> > > > though, because I'm at my dad's and I don't have the required tools...
+> > > > =/
+> > > >
+> > > >
+> > > >
+> > > > On Sun, 25 Jul 2004 11:37:11 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > then bsd it is.
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Sun, 25 Jul 2004 11:21:17 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > On SF for timmy , i  was able to just change it , it was easy.
+> > > > > >
+> > > > > > On Sun, 25 Jul 2004 11:18:26 -0400, undeadpenguin
+> > > > > >
+> > > > > >
+> > > > > > <undeadpenguin at gmail.com> wrote:
+> > > > > > > I think we should go over to BSD.
+> > > > > > >
+> > > > > > > At first I thought we shouldn't because it would be a pain in the arse
+> > > > > > > to change it, but now I realize we don't have any code so if we're
+> > > > > > > going to change it, we should do it *now*. If you decide to go BSD
+> > > > > > > (which I think we should do), be sure you post on the forums (or
+> > > > > > > respond to this) so that I can write that up on Pynux's website and
+> > > > > > > change Forty-two's license.
+> > > > > > >
+> > > > > > > Speaking of that, how do you go about changing licenses? Do you just
+> > > > > > > submit one of those help requests?
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > On Sun, 25 Jul 2004 11:09:27 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > > > doesn't matter to me.  feel free to change the license cause when I
+> > > > > > > > registered I set it to gpl.
+> > > > > > > > _______________________________________________
+> > > > > > > > Spiffy-dev mailing list
+> > > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > --
+> > > > > > > http://undeadpenguin.org/pynuxtmp/
+> > > > > > > http://forty-two.berlios.de
+> > > > > > > http://spiffy.berlios.de
+> > > > > > >
+> > > > > > >
+> > > > > > > _______________________________________________
+> > > > > > > Spiffy-dev mailing list
+> > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > >
+> > > > > >
+> > > > > >
+> > > > > > --
+> > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > >
+> > > > > >
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > > --
+> > > > http://undeadpenguin.org/pynuxtmp/
+> > > > http://forty-two.berlios.de
+> > > > http://spiffy.berlios.de
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From sethgeek at gmail.com  Sun Jul 25 23:12:19 2004
+From: sethgeek at gmail.com (seth)
+Date: Sun, 25 Jul 2004 17:12:19 -0400
+Subject: [Spiffy-dev] a package manager that will run on _any_ distro
+Message-ID: <cf9a30bb04072514121683451d@mail.gmail.com>
+
+Is this posable , ever distro does its own thing. 
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Sun Jul 25 23:23:08 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Sun, 25 Jul 2004 17:23:08 -0400
+Subject: [Spiffy-dev] a package manager that will run on _any_ distro
+In-Reply-To: <cf9a30bb04072514121683451d@mail.gmail.com>
+References: <cf9a30bb04072514121683451d@mail.gmail.com>
+Message-ID: <5de1cd4004072514234736344@mail.gmail.com>
+
+I don't understand where the problem is here... If it's written in
+Python any distro with Python can run it. Sure, there are some distros
+who will be non-standards compliant and maybe have some things in odd
+places but it will generally run on any distribution (with Python).
+
+On Sun, 25 Jul 2004 17:12:19 -0400, seth <sethgeek at gmail.com> wrote:
+> Is this posable , ever distro does its own thing.
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From kyleroot at gmail.com  Mon Jul 26 00:59:25 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 18:59:25 -0400
+Subject: [Spiffy-dev] a package manager that will run on _any_ distro
+In-Reply-To: <5de1cd4004072515561471cde5@mail.gmail.com>
+References: <cf9a30bb04072514121683451d@mail.gmail.com> <5de1cd4004072514234736344@mail.gmail.com> <6ccff37a04072515343f02c848@mail.gmail.com> <5de1cd4004072515561471cde5@mail.gmail.com>
+Message-ID: <6ccff37a04072515596fb8a5d2@mail.gmail.com>
+
+ua, sorry about that. :D
+
+On Sun, 25 Jul 2004 18:56:28 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Hehe, you sent your last response to spiffy-dev to me, not spiffy-dev.
+> You've got to change the 'to' in the reply box... I dunno why Gmail
+> has it respond to the last person who posted...
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 18:34:53 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > it's pretty much like undead said, most distros are surprisingly
+> > similar.  Big and well established distros tend to do whatever they
+> > want however.   Almost all the small distros use fhs.
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 17:23:08 -0400, undeadpenguin
+> > <undeadpenguin at gmail.com> wrote:
+> > > I don't understand where the problem is here... If it's written in
+> > > Python any distro with Python can run it. Sure, there are some distros
+> > > who will be non-standards compliant and maybe have some things in odd
+> > > places but it will generally run on any distribution (with Python).
+> > >
+> > >
+> > >
+> > > On Sun, 25 Jul 2004 17:12:19 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > Is this posable , ever distro does its own thing.
+> > > > --
+> > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > >
+> > >
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+>
+
+
+From kyleroot at gmail.com  Mon Jul 26 04:20:49 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Sun, 25 Jul 2004 22:20:49 -0400
+Subject: [Spiffy-dev] I've started coding
+Message-ID: <6ccff37a04072519202eed8622@mail.gmail.com>
+
+I've started to code, I have the version comparision done, and
+communicating with the user done (ie, fatal, warn, notice, prompt,
+etc).
+
+What we need is a TODO list.
+
+So that no one else starts work on what I'm doing... I'm going to be
+planning out the config file and start writing some basic routines for
+parsing it next.
+
+The code will be available on subversion by tomorrow.
+
+
+From sethgeek at gmail.com  Mon Jul 26 17:22:47 2004
+From: sethgeek at gmail.com (seth)
+Date: Mon, 26 Jul 2004 11:22:47 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <6ccff37a04072519202eed8622@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com>
+Message-ID: <cf9a30bb0407260822497ca239@mail.gmail.com>
+
+I am going to try to add the php thing undead showed me to the site.
+Start makeing a tasks list and e-mail it , i will add anything that
+needs to be add and we can breack tasks up. I can't wait to see the
+code in subversion.
+
+On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> I've started to code, I have the version comparision done, and
+> communicating with the user done (ie, fatal, warn, notice, prompt,
+> etc).
+> 
+> What we need is a TODO list.
+> 
+> So that no one else starts work on what I'm doing... I'm going to be
+> planning out the config file and start writing some basic routines for
+> parsing it next.
+> 
+> The code will be available on subversion by tomorrow.
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From sethgeek at gmail.com  Tue Jul 27 17:25:45 2004
+From: sethgeek at gmail.com (seth)
+Date: Tue, 27 Jul 2004 11:25:45 -0400
+Subject: [Spiffy-dev] is there code in svn
+Message-ID: <cf9a30bb0407270825e780d13@mail.gmail.com>
+
+i did a svn checkout 
+svn://svn.berlios.de/spiffy
+and
+bash-2.05b$ cd spiffy
+bash-2.05b$ ls
+ppkg-spec2.txt
+
+have you put code in krill? or am doing something wrong.
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Tue Jul 27 17:43:17 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Tue, 27 Jul 2004 11:43:17 -0400
+Subject: [Spiffy-dev] is there code in svn
+In-Reply-To: <5de1cd4004072708421cf27b2b@mail.gmail.com>
+References: <cf9a30bb0407270825e780d13@mail.gmail.com> <5de1cd4004072708421cf27b2b@mail.gmail.com>
+Message-ID: <5de1cd400407270843481baeaf@mail.gmail.com>
+
+Damn, I sent it to the wrong place again...
+
+cd ../ and do ls. I really have to edit those instructions, I messed 'em up...
+
+On Tue, 27 Jul 2004 11:42:24 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> cd ../ and do an ls
+> 
+> 
+> 
+> On Tue, 27 Jul 2004 11:25:45 -0400, seth <sethgeek at gmail.com> wrote:
+> > i did a svn checkout
+> > svn://svn.berlios.de/spiffy
+> > and
+> > bash-2.05b$ cd spiffy
+> > bash-2.05b$ ls
+> > ppkg-spec2.txt
+> >
+> > have you put code in krill? or am doing something wrong.
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From undeadpenguin at gmail.com  Tue Jul 27 17:44:35 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Tue, 27 Jul 2004 11:44:35 -0400
+Subject: [Spiffy-dev] is there code in svn
+In-Reply-To: <5de1cd400407270843481baeaf@mail.gmail.com>
+References: <cf9a30bb0407270825e780d13@mail.gmail.com> <5de1cd4004072708421cf27b2b@mail.gmail.com> <5de1cd400407270843481baeaf@mail.gmail.com>
+Message-ID: <5de1cd4004072708444dd7a106@mail.gmail.com>
+
+Err... nevermind. I just did it and you did do it right. Maybe he
+didn't update it since he wrote the code.
+
+On Tue, 27 Jul 2004 11:43:17 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Damn, I sent it to the wrong place again...
+> 
+> cd ../ and do ls. I really have to edit those instructions, I messed 'em up...
+> 
+> 
+> 
+> On Tue, 27 Jul 2004 11:42:24 -0400, undeadpenguin
+> <undeadpenguin at gmail.com> wrote:
+> > cd ../ and do an ls
+> >
+> >
+> >
+> > On Tue, 27 Jul 2004 11:25:45 -0400, seth <sethgeek at gmail.com> wrote:
+> > > i did a svn checkout
+> > > svn://svn.berlios.de/spiffy
+> > > and
+> > > bash-2.05b$ cd spiffy
+> > > bash-2.05b$ ls
+> > > ppkg-spec2.txt
+> > >
+> > > have you put code in krill? or am doing something wrong.
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From undeadpenguin at gmail.com  Tue Jul 27 18:31:54 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Tue, 27 Jul 2004 12:31:54 -0400
+Subject: [Spiffy-dev] is there code in svn
+In-Reply-To: <5de1cd4004072709316865854a@mail.gmail.com>
+References: <cf9a30bb0407270825e780d13@mail.gmail.com> <5de1cd4004072708421cf27b2b@mail.gmail.com> <5de1cd400407270843481baeaf@mail.gmail.com> <5de1cd4004072708444dd7a106@mail.gmail.com> <cf9a30bb040727091638bec418@mail.gmail.com> <5de1cd4004072709316865854a@mail.gmail.com>
+Message-ID: <5de1cd40040727093179487301@mail.gmail.com>
+
+Crap.. stupid Gmail
+
+Anyway, it's not there...
+
+On Tue, 27 Jul 2004 12:31:26 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> It's not there - That's what I meant by " I just did it and you did do
+> it right. Maybe he
+> didn't update it since he wrote the code." :)
+> 
+> 
+> 
+> On Tue, 27 Jul 2004 12:16:07 -0400, seth <sethgeek at gmail.com> wrote:
+> > i cd all over a did not find code , i do not think the code is there.
+> > Hopefull we can get a tasks list going.
+> >
+> > On Tue, 27 Jul 2004 11:44:35 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > Err... nevermind. I just did it and you did do it right. Maybe he
+> > > didn't update it since he wrote the code.
+> > >
+> > > On Tue, 27 Jul 2004 11:43:17 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > Damn, I sent it to the wrong place again...
+> > > >
+> > > > cd ../ and do ls. I really have to edit those instructions, I messed 'em up...
+> > > >
+> > > >
+> > > >
+> > > > On Tue, 27 Jul 2004 11:42:24 -0400, undeadpenguin
+> > > > <undeadpenguin at gmail.com> wrote:
+> > > > > cd ../ and do an ls
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Tue, 27 Jul 2004 11:25:45 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > i did a svn checkout
+> > > > > > svn://svn.berlios.de/spiffy
+> > > > > > and
+> > > > > > bash-2.05b$ cd spiffy
+> > > > > > bash-2.05b$ ls
+> > > > > > ppkg-spec2.txt
+> > > > > >
+> > > > > > have you put code in krill? or am doing something wrong.
+> > > > > >
+> > > > > > --
+> > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > >
+> > > > >
+> > > > > --
+> > > > > http://undeadpenguin.org/pynuxtmp/
+> > > > > http://forty-two.berlios.de
+> > > > > http://spiffy.berlios.de
+> > > > >
+> > > >
+> > > > --
+> > > > http://undeadpenguin.org/pynuxtmp/
+> > > > http://forty-two.berlios.de
+> > > > http://spiffy.berlios.de
+> > > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From sethgeek at gmail.com  Tue Jul 27 22:30:30 2004
+From: sethgeek at gmail.com (seth)
+Date: Tue, 27 Jul 2004 16:30:30 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <cf9a30bb0407260822497ca239@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com>
+Message-ID: <cf9a30bb040727133046419e8a@mail.gmail.com>
+
+Can you upload the code?
+
+On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> I am going to try to add the php thing undead showed me to the site.
+> Start makeing a tasks list and e-mail it , i will add anything that
+> needs to be add and we can breack tasks up. I can't wait to see the
+> code in subversion.
+> 
+> 
+> 
+> On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > I've started to code, I have the version comparision done, and
+> > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > etc).
+> >
+> > What we need is a TODO list.
+> >
+> > So that no one else starts work on what I'm doing... I'm going to be
+> > planning out the config file and start writing some basic routines for
+> > parsing it next.
+> >
+> > The code will be available on subversion by tomorrow.
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From kyleroot at gmail.com  Wed Jul 28 02:15:02 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Tue, 27 Jul 2004 20:15:02 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <cf9a30bb040727133046419e8a@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com> <cf9a30bb040727133046419e8a@mail.gmail.com>
+Message-ID: <6ccff37a04072717157b9ee503@mail.gmail.com>
+
+I did.  It's in the spiffy-main/ directory.  There should be
+version.py and a communicate.py files.
+
+On Tue, 27 Jul 2004 16:30:30 -0400, seth <sethgeek at gmail.com> wrote:
+> Can you upload the code?
+> 
+> 
+> 
+> On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> > I am going to try to add the php thing undead showed me to the site.
+> > Start makeing a tasks list and e-mail it , i will add anything that
+> > needs to be add and we can breack tasks up. I can't wait to see the
+> > code in subversion.
+> >
+> >
+> >
+> > On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > I've started to code, I have the version comparision done, and
+> > > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > > etc).
+> > >
+> > > What we need is a TODO list.
+> > >
+> > > So that no one else starts work on what I'm doing... I'm going to be
+> > > planning out the config file and start writing some basic routines for
+> > > parsing it next.
+> > >
+> > > The code will be available on subversion by tomorrow.
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> >
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> >
+> 
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From undeadpenguin at gmail.com  Wed Jul 28 02:26:28 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Tue, 27 Jul 2004 20:26:28 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <5de1cd400407271725eceffb4@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com> <cf9a30bb040727133046419e8a@mail.gmail.com> <6ccff37a04072717157b9ee503@mail.gmail.com> <5de1cd400407271725eceffb4@mail.gmail.com>
+Message-ID: <5de1cd4004072717261f504446@mail.gmail.com>
+
+Damnit, I sent it to the wrong thing again...
+
+Yup :)
+
+On Tue, 27 Jul 2004 20:25:59 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Yup. :)
+> 
+> 
+> 
+> On Tue, 27 Jul 2004 20:15:02 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > I did.  It's in the spiffy-main/ directory.  There should be
+> > version.py and a communicate.py files.
+> >
+> >
+> >
+> > On Tue, 27 Jul 2004 16:30:30 -0400, seth <sethgeek at gmail.com> wrote:
+> > > Can you upload the code?
+> > >
+> > >
+> > >
+> > > On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > I am going to try to add the php thing undead showed me to the site.
+> > > > Start makeing a tasks list and e-mail it , i will add anything that
+> > > > needs to be add and we can breack tasks up. I can't wait to see the
+> > > > code in subversion.
+> > > >
+> > > >
+> > > >
+> > > > On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > I've started to code, I have the version comparision done, and
+> > > > > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > > > > etc).
+> > > > >
+> > > > > What we need is a TODO list.
+> > > > >
+> > > > > So that no one else starts work on what I'm doing... I'm going to be
+> > > > > planning out the config file and start writing some basic routines for
+> > > > > parsing it next.
+> > > > >
+> > > > > The code will be available on subversion by tomorrow.
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > >
+> > >
+> > > --
+> > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > http://timmy.sourceforge.net/ My Open Source Project
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From undeadpenguin at gmail.com  Wed Jul 28 02:40:51 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Tue, 27 Jul 2004 20:40:51 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <6ccff37a040727173328229928@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com> <cf9a30bb040727133046419e8a@mail.gmail.com> <6ccff37a04072717157b9ee503@mail.gmail.com> <5de1cd400407271725eceffb4@mail.gmail.com> <5de1cd4004072717261f504446@mail.gmail.com> <6ccff37a040727173328229928@mail.gmail.com>
+Message-ID: <5de1cd40040727174050d593bf@mail.gmail.com>
+
+Hehe, you sent it to the wrong thing to: "Kyle Root to me".
+
+;)
+
+stupid Gmail!
+
+On Tue, 27 Jul 2004 20:33:18 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> lol, actually that's cause I just uploaded it.
+> I'm sorry, I must have had a senior citizen moment or something
+> because I definitely remember uploading something... I could swear I
+> did....
+> 
+> omg I'm losing my mind. :(
+> 
+> On Tue, 27 Jul 2004 20:26:28 -0400, undeadpenguin
+> 
+> 
+> <undeadpenguin at gmail.com> wrote:
+> > Damnit, I sent it to the wrong thing again...
+> >
+> > Yup :)
+> >
+> > On Tue, 27 Jul 2004 20:25:59 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > Yup. :)
+> > >
+> > >
+> > >
+> > > On Tue, 27 Jul 2004 20:15:02 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > I did.  It's in the spiffy-main/ directory.  There should be
+> > > > version.py and a communicate.py files.
+> > > >
+> > > >
+> > > >
+> > > > On Tue, 27 Jul 2004 16:30:30 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > Can you upload the code?
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > I am going to try to add the php thing undead showed me to the site.
+> > > > > > Start makeing a tasks list and e-mail it , i will add anything that
+> > > > > > needs to be add and we can breack tasks up. I can't wait to see the
+> > > > > > code in subversion.
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > > > On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > > I've started to code, I have the version comparision done, and
+> > > > > > > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > > > > > > etc).
+> > > > > > >
+> > > > > > > What we need is a TODO list.
+> > > > > > >
+> > > > > > > So that no one else starts work on what I'm doing... I'm going to be
+> > > > > > > planning out the config file and start writing some basic routines for
+> > > > > > > parsing it next.
+> > > > > > >
+> > > > > > > The code will be available on subversion by tomorrow.
+> > > > > > > _______________________________________________
+> > > > > > > Spiffy-dev mailing list
+> > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > >
+> > > > > >
+> > > > > >
+> > > > > > --
+> > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > >
+> > > > >
+> > > > > --
+> > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > > _______________________________________________
+> > > > Spiffy-dev mailing list
+> > > > Spiffy-dev at lists.berlios.de
+> > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > >
+> > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > >
+> >
+> > --
+> > http://undeadpenguin.org/pynuxtmp/
+> > http://forty-two.berlios.de
+> > http://spiffy.berlios.de
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From sethgeek at gmail.com  Wed Jul 28 02:43:24 2004
+From: sethgeek at gmail.com (seth)
+Date: Tue, 27 Jul 2004 20:43:24 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <5de1cd40040727174050d593bf@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com> <cf9a30bb040727133046419e8a@mail.gmail.com> <6ccff37a04072717157b9ee503@mail.gmail.com> <5de1cd400407271725eceffb4@mail.gmail.com> <5de1cd4004072717261f504446@mail.gmail.com> <6ccff37a040727173328229928@mail.gmail.com> <5de1cd40040727174050d593bf@mail.gmail.com>
+Message-ID: <cf9a30bb040727174376def295@mail.gmail.com>
+
+its there now. I hate how gmail messes up mailing list.
+
+On Tue, 27 Jul 2004 20:40:51 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Hehe, you sent it to the wrong thing to: "Kyle Root to me".
+> 
+> ;)
+> 
+> stupid Gmail!
+> 
+> On Tue, 27 Jul 2004 20:33:18 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > lol, actually that's cause I just uploaded it.
+> > I'm sorry, I must have had a senior citizen moment or something
+> > because I definitely remember uploading something... I could swear I
+> > did....
+> >
+> > omg I'm losing my mind. :(
+> >
+> > On Tue, 27 Jul 2004 20:26:28 -0400, undeadpenguin
+> 
+> 
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > Damnit, I sent it to the wrong thing again...
+> > >
+> > > Yup :)
+> > >
+> > > On Tue, 27 Jul 2004 20:25:59 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > Yup. :)
+> > > >
+> > > >
+> > > >
+> > > > On Tue, 27 Jul 2004 20:15:02 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > I did.  It's in the spiffy-main/ directory.  There should be
+> > > > > version.py and a communicate.py files.
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Tue, 27 Jul 2004 16:30:30 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > Can you upload the code?
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > > > On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > > I am going to try to add the php thing undead showed me to the site.
+> > > > > > > Start makeing a tasks list and e-mail it , i will add anything that
+> > > > > > > needs to be add and we can breack tasks up. I can't wait to see the
+> > > > > > > code in subversion.
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > > > I've started to code, I have the version comparision done, and
+> > > > > > > > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > > > > > > > etc).
+> > > > > > > >
+> > > > > > > > What we need is a TODO list.
+> > > > > > > >
+> > > > > > > > So that no one else starts work on what I'm doing... I'm going to be
+> > > > > > > > planning out the config file and start writing some basic routines for
+> > > > > > > > parsing it next.
+> > > > > > > >
+> > > > > > > > The code will be available on subversion by tomorrow.
+> > > > > > > > _______________________________________________
+> > > > > > > > Spiffy-dev mailing list
+> > > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > --
+> > > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > >
+> > > > > >
+> > > > > > --
+> > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://undeadpenguin.org/pynuxtmp/
+> > > > http://forty-two.berlios.de
+> > > > http://spiffy.berlios.de
+> > > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From kyleroot at gmail.com  Wed Jul 28 02:59:50 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Tue, 27 Jul 2004 20:59:50 -0400
+Subject: [Spiffy-dev] I've started coding
+In-Reply-To: <5de1cd40040727174050d593bf@mail.gmail.com>
+References: <6ccff37a04072519202eed8622@mail.gmail.com> <cf9a30bb0407260822497ca239@mail.gmail.com> <cf9a30bb040727133046419e8a@mail.gmail.com> <6ccff37a04072717157b9ee503@mail.gmail.com> <5de1cd400407271725eceffb4@mail.gmail.com> <5de1cd4004072717261f504446@mail.gmail.com> <6ccff37a040727173328229928@mail.gmail.com> <5de1cd40040727174050d593bf@mail.gmail.com>
+Message-ID: <6ccff37a04072717594d96b7db@mail.gmail.com>
+
+oops. :|
+<what I sent to undead>
+lol, actually that's cause I just uploaded it.
+I'm sorry, I must have had a senior citizen moment or something
+because I definitely remember uploading something... I could swear I
+did....
+
+omg I'm losing my mind. :(
+<what I sent to undead>
+I'm going to complain to gmail about this... it's becoming a hassle...
+On Tue, 27 Jul 2004 20:40:51 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> Hehe, you sent it to the wrong thing to: "Kyle Root to me".
+> 
+> ;)
+> 
+> stupid Gmail!
+> 
+> 
+> 
+> On Tue, 27 Jul 2004 20:33:18 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > lol, actually that's cause I just uploaded it.
+> > I'm sorry, I must have had a senior citizen moment or something
+> > because I definitely remember uploading something... I could swear I
+> > did....
+> >
+> > omg I'm losing my mind. :(
+> >
+> > On Tue, 27 Jul 2004 20:26:28 -0400, undeadpenguin
+> >
+> >
+> > <undeadpenguin at gmail.com> wrote:
+> > > Damnit, I sent it to the wrong thing again...
+> > >
+> > > Yup :)
+> > >
+> > > On Tue, 27 Jul 2004 20:25:59 -0400, undeadpenguin
+> > >
+> > >
+> > > <undeadpenguin at gmail.com> wrote:
+> > > > Yup. :)
+> > > >
+> > > >
+> > > >
+> > > > On Tue, 27 Jul 2004 20:15:02 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > I did.  It's in the spiffy-main/ directory.  There should be
+> > > > > version.py and a communicate.py files.
+> > > > >
+> > > > >
+> > > > >
+> > > > > On Tue, 27 Jul 2004 16:30:30 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > Can you upload the code?
+> > > > > >
+> > > > > >
+> > > > > >
+> > > > > > On Mon, 26 Jul 2004 11:22:47 -0400, seth <sethgeek at gmail.com> wrote:
+> > > > > > > I am going to try to add the php thing undead showed me to the site.
+> > > > > > > Start makeing a tasks list and e-mail it , i will add anything that
+> > > > > > > needs to be add and we can breack tasks up. I can't wait to see the
+> > > > > > > code in subversion.
+> > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > On Sun, 25 Jul 2004 22:20:49 -0400, Kyle Root <kyleroot at gmail.com> wrote:
+> > > > > > > > I've started to code, I have the version comparision done, and
+> > > > > > > > communicating with the user done (ie, fatal, warn, notice, prompt,
+> > > > > > > > etc).
+> > > > > > > >
+> > > > > > > > What we need is a TODO list.
+> > > > > > > >
+> > > > > > > > So that no one else starts work on what I'm doing... I'm going to be
+> > > > > > > > planning out the config file and start writing some basic routines for
+> > > > > > > > parsing it next.
+> > > > > > > >
+> > > > > > > > The code will be available on subversion by tomorrow.
+> > > > > > > > _______________________________________________
+> > > > > > > > Spiffy-dev mailing list
+> > > > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > > > >
+> > > > > > >
+> > > > > > >
+> > > > > > > --
+> > > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > >
+> > > > > >
+> > > > > > --
+> > > > > > http://db.etree.org/seth_moeron_86 My Trade List
+> > > > > > http://timmy.sourceforge.net/ My Open Source Project
+> > > > > > _______________________________________________
+> > > > > > Spiffy-dev mailing list
+> > > > > > Spiffy-dev at lists.berlios.de
+> > > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > > >
+> > > > > _______________________________________________
+> > > > > Spiffy-dev mailing list
+> > > > > Spiffy-dev at lists.berlios.de
+> > > > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > > > >
+> > > >
+> > > >
+> > > > --
+> > > > http://undeadpenguin.org/pynuxtmp/
+> > > > http://forty-two.berlios.de
+> > > > http://spiffy.berlios.de
+> > > >
+> > >
+> > > --
+> > > http://undeadpenguin.org/pynuxtmp/
+> > > http://forty-two.berlios.de
+> > > http://spiffy.berlios.de
+> > > _______________________________________________
+> > > Spiffy-dev mailing list
+> > > Spiffy-dev at lists.berlios.de
+> > > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> > >
+> >
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+
+From sethgeek at gmail.com  Fri Jul 30 21:47:53 2004
+From: sethgeek at gmail.com (seth)
+Date: Fri, 30 Jul 2004 15:47:53 -0400
+Subject: [Spiffy-dev] RPM
+Message-ID: <cf9a30bb04073012477ac45c13@mail.gmail.com>
+
+am i understanding this right. pynux will have its on pkg format , but
+it will be able to use rpms as well.
+-- 
+http://db.etree.org/seth_moeron_86 My Trade List 
+http://timmy.sourceforge.net/ My Open Source Project
+
+
+From undeadpenguin at gmail.com  Fri Jul 30 22:10:12 2004
+From: undeadpenguin at gmail.com (undeadpenguin)
+Date: Fri, 30 Jul 2004 16:10:12 -0400
+Subject: [Spiffy-dev] RPM
+In-Reply-To: <cf9a30bb04073012477ac45c13@mail.gmail.com>
+References: <cf9a30bb04073012477ac45c13@mail.gmail.com>
+Message-ID: <5de1cd4004073013101aecf828@mail.gmail.com>
+
+I think KptnKrill was saying that it would be easy to write a tool
+that would convert RPMs to ppkgs. Basicallly, ppkgs just a have a few
+more fields in their pkgbuilds so it would have to add those (or
+something like that).
+
+Maybe I'm wrong, though *shrug*
+
+On Fri, 30 Jul 2004 15:47:53 -0400, seth <sethgeek at gmail.com> wrote:
+> am i understanding this right. pynux will have its on pkg format , but
+> it will be able to use rpms as well.
+> --
+> http://db.etree.org/seth_moeron_86 My Trade List
+> http://timmy.sourceforge.net/ My Open Source Project
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> 
+
+
+-- 
+http://undeadpenguin.org/pynuxtmp/
+http://forty-two.berlios.de
+http://spiffy.berlios.de
+
+
+From kyleroot at gmail.com  Sat Jul 31 03:47:37 2004
+From: kyleroot at gmail.com (Kyle Root)
+Date: Fri, 30 Jul 2004 21:47:37 -0400
+Subject: [Spiffy-dev] RPM
+In-Reply-To: <5de1cd4004073013101aecf828@mail.gmail.com>
+References: <cf9a30bb04073012477ac45c13@mail.gmail.com> <5de1cd4004073013101aecf828@mail.gmail.com>
+Message-ID: <6ccff37a04073018476aabd62b@mail.gmail.com>
+
+nope you got it :), it would make converting a matter of using
+rpm2ppkg then adding in anything the extra fields missed and tweaking
+the install, etc.
+
+On Fri, 30 Jul 2004 16:10:12 -0400, undeadpenguin
+<undeadpenguin at gmail.com> wrote:
+> I think KptnKrill was saying that it would be easy to write a tool
+> that would convert RPMs to ppkgs. Basicallly, ppkgs just a have a few
+> more fields in their pkgbuilds so it would have to add those (or
+> something like that).
+> 
+> Maybe I'm wrong, though *shrug*
+> 
+> 
+> 
+> On Fri, 30 Jul 2004 15:47:53 -0400, seth <sethgeek at gmail.com> wrote:
+> > am i understanding this right. pynux will have its on pkg format , but
+> > it will be able to use rpms as well.
+> > --
+> > http://db.etree.org/seth_moeron_86 My Trade List
+> > http://timmy.sourceforge.net/ My Open Source Project
+> > _______________________________________________
+> > Spiffy-dev mailing list
+> > Spiffy-dev at lists.berlios.de
+> > http://lists.berlios.de/mailman/listinfo/spiffy-dev
+> >
+> 
+> 
+> --
+> http://undeadpenguin.org/pynuxtmp/
+> http://forty-two.berlios.de
+> http://spiffy.berlios.de
+> 
+> 
+> _______________________________________________
+> Spiffy-dev mailing list
+> Spiffy-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/spiffy-dev
+>
+
+

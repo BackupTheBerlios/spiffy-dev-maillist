@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Spiffy-dev] Just a Thought
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/spiffy-dev/2004-August/index.html" >
+   <LINK REL="made" HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20Just%20a%20Thought&In-Reply-To=%3C5de1cd4004081807492004afc%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000103.html">
+   <LINK REL="Next"  HREF="000105.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Spiffy-dev] Just a Thought</H1>
+    <B>undeadpenguin</B> 
+    <A HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20Just%20a%20Thought&In-Reply-To=%3C5de1cd4004081807492004afc%40mail.gmail.com%3E"
+       TITLE="[Spiffy-dev] Just a Thought">undeadpenguin at gmail.com
+       </A><BR>
+    <I>Wed Aug 18 16:49:40 CEST 2004</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000103.html">[Spiffy-dev] Just a Thought
+</A></li>
+        <LI>Next message: <A HREF="000105.html">[Spiffy-dev] Just a Thought
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#104">[ date ]</a>
+              <a href="thread.html#104">[ thread ]</a>
+              <a href="subject.html#104">[ subject ]</a>
+              <a href="author.html#104">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Hmm.. an interesting solution to our problems on OSNews today
+(<A HREF="http://www.osnews.com/story.php?news_id=8069">http://www.osnews.com/story.php?news_id=8069</A>).
+
+We can install all packages to /opt/pkgname-version/ and then symlink
+whatever is in there to /usr/bin.This also means you can easily have
+two of the same package installed.
+
+What do you guys think about that?
+
+On Tue, 17 Aug 2004 18:48:15 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+&gt;<i> i mean Stablity-wise ,
+</I>&gt;<i> 
+</I>&gt;<i> On Tue, 17 Aug 2004 18:32:11 -0400, undeadpenguin
+</I>&gt;<i> 
+</I>&gt;<i> 
+</I>&gt;<i> &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">undeadpenguin at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; Whatdya mean? Stablity-wise? It does exactly the same thing that you
+</I>&gt;<i> &gt; suggested; writing it to a text file. It just makes it a lot easier to
+</I>&gt;<i> &gt; access and write to that using file I/O (and I would think is faster).
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; On Tue, 17 Aug 2004 17:57:23 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; it better be a rock soild database.
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; On Tue, 17 Aug 2004 17:33:29 -0400, undeadpenguin
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">undeadpenguin at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; Okay... but then that would be a database and I thought that KptnKrill
+</I>&gt;<i> &gt; &gt; &gt; didn't want to do that. If we're going to use a database, I would
+</I>&gt;<i> &gt; &gt; &gt; think gdbm would be the easiest to use.
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; On Tue, 17 Aug 2004 15:35:04 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; &gt; a txt file in /var/pkgs ?
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; On Tue, 17 Aug 2004 09:48:43 -0400, undeadpenguin
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">undeadpenguin at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; Okay... since we're using the PATH variable now to determine whether
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; something is installed (right?) how are we going to be able to
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; differentiate between version (so Spiffy will know when something is
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; outdated)?
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; --
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://undeadpenguin.org/pynuxtmp/">http://undeadpenguin.org/pynuxtmp/</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://forty-two.berlios.de">http://forty-two.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://spiffy.berlios.de">http://spiffy.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; --
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> &gt; &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; --
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="http://undeadpenguin.org/pynuxtmp/">http://undeadpenguin.org/pynuxtmp/</A>
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="http://forty-two.berlios.de">http://forty-two.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="http://spiffy.berlios.de">http://spiffy.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; --
+</I>&gt;<i> &gt; &gt; <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> &gt; &gt; <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; --
+</I>&gt;<i> &gt; <A HREF="http://undeadpenguin.org/pynuxtmp/">http://undeadpenguin.org/pynuxtmp/</A>
+</I>&gt;<i> &gt; <A HREF="http://forty-two.berlios.de">http://forty-two.berlios.de</A>
+</I>&gt;<i> &gt; <A HREF="http://spiffy.berlios.de">http://spiffy.berlios.de</A>
+</I>&gt;<i> &gt; _______________________________________________
+</I>&gt;<i> &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt;
+</I>&gt;<i> 
+</I>&gt;<i> --
+</I>&gt;<i> <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> _______________________________________________
+</I>&gt;<i> Spiffy-dev mailing list
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> 
+</I>
+
+-- 
+<A HREF="http://undeadpenguin.org/pynuxtmp/">http://undeadpenguin.org/pynuxtmp/</A>
+<A HREF="http://forty-two.berlios.de">http://forty-two.berlios.de</A>
+<A HREF="http://spiffy.berlios.de">http://spiffy.berlios.de</A>
+
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000103.html">[Spiffy-dev] Just a Thought
+</A></li>
+	<LI>Next message: <A HREF="000105.html">[Spiffy-dev] Just a Thought
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#104">[ date ]</a>
+              <a href="thread.html#104">[ thread ]</a>
+              <a href="subject.html#104">[ subject ]</a>
+              <a href="author.html#104">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/spiffy-dev">More information about the Spiffy-dev
+mailing list</a><br>
+</body></html>

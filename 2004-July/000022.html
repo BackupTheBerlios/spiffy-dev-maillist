@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Spiffy-dev] install-log
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/spiffy-dev/2004-July/index.html" >
+   <LINK REL="made" HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20install-log&In-Reply-To=%3C6ccff37a040725083113f44815%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000020.html">
+   <LINK REL="Next"  HREF="000023.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Spiffy-dev] install-log</H1>
+    <B>Kyle Root</B> 
+    <A HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20install-log&In-Reply-To=%3C6ccff37a040725083113f44815%40mail.gmail.com%3E"
+       TITLE="[Spiffy-dev] install-log">kyleroot at gmail.com
+       </A><BR>
+    <I>Sun Jul 25 17:31:40 CEST 2004</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000020.html">[Spiffy-dev] install-log
+</A></li>
+        <LI>Next message: <A HREF="000023.html">[Spiffy-dev] install-log
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#22">[ date ]</a>
+              <a href="thread.html#22">[ thread ]</a>
+              <a href="subject.html#22">[ subject ]</a>
+              <a href="author.html#22">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>&lt;code&gt;
+rpm2cpio packagename.src.rpm | cpio -i
+&lt;/code&gt;
+
+you may need to get the rpm2cpio program.  you should already have
+cpio though.  that'll break the rpm down into it's most useful form
+(atleast to us).  Note though that it must be a source rpm. (SRPM).
+
+On Sun, 25 Jul 2004 11:19:37 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+&gt;<i> is there a way to look inside a rpm so i can better understand it?
+</I>&gt;<i> 
+</I>&gt;<i> 
+</I>&gt;<i> 
+</I>&gt;<i> On Sun, 25 Jul 2004 11:08:40 -0400, Kyle Root &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">kyleroot at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; I'm going to make gpl or bsd another topic for clarity's sake.
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Well I'm glad you like install-log because I've been thinking and I
+</I>&gt;<i> &gt; don't think it'll work.
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; Suppose a package ships with configuration file, using install-log if
+</I>&gt;<i> &gt; you were doing an upgrade would indiscriminately destroy all of the
+</I>&gt;<i> &gt; users settings.  And with packages such as apache that have huge
+</I>&gt;<i> &gt; configs this might not be such a good idea.
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; If we tried to follow a path similar to rpm (with the filelist and
+</I>&gt;<i> &gt; whatnot) we know that we have a method that works plus, it's only a
+</I>&gt;<i> &gt; base for us to add on advanced pynux specific features that'll attract
+</I>&gt;<i> &gt; users. :)
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; You may not of noticed but a large portion of that skeleton package
+</I>&gt;<i> &gt; that I showed you looks like an rpm.
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; I need to to write some docs so as every is on the rigtige page.
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i> &gt; On Fri, 16 Jul 2004 10:28:56 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; I like it , on anouther note is spiffy GPL or BSD.
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; _______________________________________________
+</I>&gt;<i> &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt;
+</I>&gt;<i> 
+</I>&gt;<i> --
+</I>&gt;<i> <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> _______________________________________________
+</I>&gt;<i> Spiffy-dev mailing list
+</I>&gt;<i> <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i>
+</I>
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000020.html">[Spiffy-dev] install-log
+</A></li>
+	<LI>Next message: <A HREF="000023.html">[Spiffy-dev] install-log
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#22">[ date ]</a>
+              <a href="thread.html#22">[ thread ]</a>
+              <a href="subject.html#22">[ subject ]</a>
+              <a href="author.html#22">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/spiffy-dev">More information about the Spiffy-dev
+mailing list</a><br>
+</body></html>

@@ -1,0 +1,244 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> [Spiffy-dev] site is up
+   </TITLE>
+   <LINK REL="Index" HREF="http://lists.berlios.de/pipermail/spiffy-dev/2004-July/index.html" >
+   <LINK REL="made" HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20site%20is%20up&In-Reply-To=%3C5de1cd4004072218417bdd1715%40mail.gmail.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   <LINK REL="Previous"  HREF="000015.html">
+   <LINK REL="Next"  HREF="000017.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>[Spiffy-dev] site is up</H1>
+    <B>undeadpenguin</B> 
+    <A HREF="mailto:spiffy-dev%40lists.berlios.de?Subject=Re%3A%20%5BSpiffy-dev%5D%20site%20is%20up&In-Reply-To=%3C5de1cd4004072218417bdd1715%40mail.gmail.com%3E"
+       TITLE="[Spiffy-dev] site is up">undeadpenguin at gmail.com
+       </A><BR>
+    <I>Fri Jul 23 03:41:28 CEST 2004</I>
+    <P><UL>
+        <LI>Previous message: <A HREF="000015.html">[Spiffy-dev] site is up
+</A></li>
+        <LI>Next message: <A HREF="000017.html">[Spiffy-dev] install-log
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#16">[ date ]</a>
+              <a href="thread.html#16">[ thread ]</a>
+              <a href="subject.html#16">[ subject ]</a>
+              <a href="author.html#16">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Darnit, I did it again... Let me repost (in case you can't tell, I
+keep emailing you instead of Spiffy-dev... =/
+
+Woops, I sent it to the wrong place. Let me re-post that.
+
+Alright, let's use this as a very basic example. I'm just going to
+code the following below that has _nothing_ to do with the actual HTML
+or PHP you will be using; it's just an example of how to use it.
+
+&lt;html&gt;
+&lt;head&gt;
+&lt;title&gt;A PHP Example&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;!-- We will assume the following table is part of your template, a
+nav bar, in a sense --&gt;
+  &lt;table align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+       &lt;a href=&quot;index.html&quot;&gt;The Index&lt;/a&gt;
+      &lt;/td&gt;
+     &lt;/tr&gt;
+  &lt;/table&gt;
+
+   &lt;!-- Now let's assume the next table is the main content of the site --&gt;
+   &lt;table align=&quot;center&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+     &lt;td&gt;
+      &lt;p&gt;
+       &lt;?php
+          $somevariable = 2;
+          if( $somevariable == 2) {
+           print &quot;This will be outputted to the browser.&lt;br /&gt;&quot;;
+          }
+       ?&gt;
+      &lt;/p&gt;
+     &lt;/td&gt;
+    &lt;/tr&gt;
+   &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+
+Get it? If you still need some help, I could put it in for you. :)
+
+Also, note that PHP print does not print directly to the browser. It
+writes it to the HTML file. For example, &lt;?php $paragraphit = &quot;&lt;p&gt;&quot;;
+$closeit = &quot;&lt;/p&gt;&quot;; print $paragraphit; print &quot;Test&quot;; print $closeit;?&gt;
+would just print &quot;Test&quot; to the browser, but if you looked at the
+source, it would say &lt;p&gt;Test&lt;/p&gt;
+
+&gt;<i> &gt; On Thu, 22 Jul 2004 21:06:08 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; So i put the html part on a page. and the php goes on a page named
+</I>&gt;<i> &gt; &gt; sendit.php or does it all go on one page. I have never used php before
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; On Thu, 22 Jul 2004 16:35:32 -0400, undeadpenguin
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">undeadpenguin at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; The HTML should look something like:
+</I>&gt;<i> &gt; &gt; &gt; &lt;form method=&quot;POST&quot; action=&quot;sendit.php&quot;&gt;
+</I>&gt;<i> &gt; &gt; &gt;  Name: &lt;input type=&quot;text&quot; name=&quot;name&quot; /&gt;&lt;br /&gt;
+</I>&gt;<i> &gt; &gt; &gt;  Email: &lt;input type=&quot;text&quot; name=&quot;email&quot; /&gt;&lt;br /&gt;
+</I>&gt;<i> &gt; &gt; &gt;  Please input a description of what you'd like to do for Spiffy and
+</I>&gt;<i> &gt; &gt; &gt; your skills:&lt;br /&gt;
+</I>&gt;<i> &gt; &gt; &gt;  &lt;textarea name=&quot;desc&quot; rows=&quot;25&quot; cols=&quot;10&quot;&gt;&lt;/textarea&gt;
+</I>&gt;<i> &gt; &gt; &gt; &lt;/form&gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; The PHP part (sendit.php):
+</I>&gt;<i> &gt; &gt; &gt;    &lt;?php
+</I>&gt;<i> &gt; &gt; &gt;      $error = 0; //If there is an error it gets set to one
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; /**************************************************************
+</I>&gt;<i> &gt; &gt; &gt; ** Be sure to se the variable $email_to below            **
+</I>&gt;<i> &gt; &gt; &gt; **************************************************************/
+</I>&gt;<i> &gt; &gt; &gt;      $email_to = &quot;your email address&quot;; // Set this to the email
+</I>&gt;<i> &gt; &gt; &gt; address you want it sent to.
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;      //Make sure stuff exists
+</I>&gt;<i> &gt; &gt; &gt;      if( $name == &quot;&quot; ) {
+</I>&gt;<i> &gt; &gt; &gt;       print &quot;Error: No name given.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;       $error = 1;
+</I>&gt;<i> &gt; &gt; &gt;      }
+</I>&gt;<i> &gt; &gt; &gt;      if( $desc == &quot;&quot;) {
+</I>&gt;<i> &gt; &gt; &gt;       print &quot;Error: No description given.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;       $error = 1;
+</I>&gt;<i> &gt; &gt; &gt;      }
+</I>&gt;<i> &gt; &gt; &gt;      if( $email == &quot;&quot;) {
+</I>&gt;<i> &gt; &gt; &gt;       print &quot;Error: No email address given.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;       $error = 1;
+</I>&gt;<i> &gt; &gt; &gt;      }
+</I>&gt;<i> &gt; &gt; &gt;      if( $error != 0 ) {
+</I>&gt;<i> &gt; &gt; &gt;       print &quot;Script execution stopped due to errors.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;       exit;
+</I>&gt;<i> &gt; &gt; &gt;      }
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;      //Send mail
+</I>&gt;<i> &gt; &gt; &gt;      $from = $email;
+</I>&gt;<i> &gt; &gt; &gt;      $subject = &quot;Forty-two Devloper: &quot;.$name;
+</I>&gt;<i> &gt; &gt; &gt;      $to = $email_to;
+</I>&gt;<i> &gt; &gt; &gt;      $message = $desc;
+</I>&gt;<i> &gt; &gt; &gt;      mail( $to, $subject, $message, $from )
+</I>&gt;<i> &gt; &gt; &gt;       or $error = 1;
+</I>&gt;<i> &gt; &gt; &gt;      if( $error != 0 ) {
+</I>&gt;<i> &gt; &gt; &gt;       print &quot;Error sending email. Please try again.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;       exit;
+</I>&gt;<i> &gt; &gt; &gt;      }
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;      //Tell the user about it
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;An email has been sent to $email_to - below is a copy of
+</I>&gt;<i> &gt; &gt; &gt; it. Thank you for joining the Spiffy team. You will be contacted
+</I>&gt;<i> &gt; &gt; &gt; within a day.&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;From: $email&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;To: $email_to&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;Subject: Forty-two Developer: $name&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print &quot;&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;      print $desc.&quot;&lt;br /&gt;&quot;;
+</I>&gt;<i> &gt; &gt; &gt;    ?&gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; Make sure you include some HTML (like the template you're using for
+</I>&gt;<i> &gt; &gt; &gt; the site) around sendit.php, too. Just don't put it inside the
+</I>&gt;<i> &gt; &gt; &gt; &lt;?php...?&gt; tags. You may want to put the &lt;?php...?&gt; tags inside &lt;p&gt;
+</I>&gt;<i> &gt; &gt; &gt; tags as it _will_ output stuff. :)
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; On Thu, 22 Jul 2004 15:34:27 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; &gt; Sounds like i good idea , pleace sent me the code.
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; On Thu, 22 Jul 2004 15:29:32 -0400, undeadpenguin
+</I>&gt;<i> &gt; &gt; &gt; &gt; &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">undeadpenguin at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; I could give you the code to the emailer thingy I wrote (very simple,
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; uses the mail() function of PHP). You can see an example of it here:
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://undeadpenguin.org/pynuxtmp/devs.html">http://undeadpenguin.org/pynuxtmp/devs.html</A> . What it does is send an
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; email to the email address you tell it to with information about the
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; person who sent it (name, email address, and a description of what
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; they'd like to do and their experience). I'm trying to get some more
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; people to work on Pynux :)
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; On Thu, 22 Jul 2004 15:16:56 -0400, seth &lt;<A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">sethgeek at gmail.com</A>&gt; wrote:
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; Is there anything we need to add.
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; --
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; &gt; --
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> &gt; &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt; &gt;
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt; &gt; --
+</I>&gt;<i> &gt; &gt; <A HREF="http://db.etree.org/seth_moeron_86">http://db.etree.org/seth_moeron_86</A> My Trade List
+</I>&gt;<i> &gt; &gt; <A HREF="http://timmy.sourceforge.net/">http://timmy.sourceforge.net/</A> My Open Source Project
+</I>&gt;<i> &gt; &gt; _______________________________________________
+</I>&gt;<i> &gt; &gt; Spiffy-dev mailing list
+</I>&gt;<i> &gt; &gt; <A HREF="https://lists.berlios.de/mailman/listinfo/spiffy-dev">Spiffy-dev at lists.berlios.de</A>
+</I>&gt;<i> &gt; &gt; <A HREF="http://lists.berlios.de/mailman/listinfo/spiffy-dev">http://lists.berlios.de/mailman/listinfo/spiffy-dev</A>
+</I>&gt;<i> &gt; &gt;
+</I>&gt;<i> &gt;
+</I>&gt;<i>
+</I>
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	<LI>Previous message: <A HREF="000015.html">[Spiffy-dev] site is up
+</A></li>
+	<LI>Next message: <A HREF="000017.html">[Spiffy-dev] install-log
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#16">[ date ]</a>
+              <a href="thread.html#16">[ thread ]</a>
+              <a href="subject.html#16">[ subject ]</a>
+              <a href="author.html#16">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="https://lists.berlios.de/mailman/listinfo/spiffy-dev">More information about the Spiffy-dev
+mailing list</a><br>
+</body></html>
